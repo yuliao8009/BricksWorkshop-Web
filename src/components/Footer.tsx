@@ -26,7 +26,9 @@ export default function Footer() {
               </li>
               <li className="flex items-center text-zinc-500 text-sm sm:text-base hover:text-zinc-900 transition-colors">
                 <Hash className="w-4 h-4 mr-2 shrink-0" />
-                <span>小红书: VEX8009</span>
+                <a href="https://xhslink.com/m/6hNTIgjsPbI" target="_blank" rel="noopener noreferrer">
+                  小红书: VEX8009
+                </a>
               </li>
             </ul>
           </div>
