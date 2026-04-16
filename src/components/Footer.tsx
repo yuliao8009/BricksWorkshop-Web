@@ -26,7 +26,9 @@ export default function Footer() {
               </li>
               <li className="flex items-center text-zinc-500 text-sm sm:text-base hover:text-zinc-900 transition-colors">
                 <Hash className="w-4 h-4 mr-2 shrink-0" />
-                <span>小红书: VEX8009</span>
+                <a href="https://xhslink.com/m/6hNTIgjsPbI" target="_blank" rel="noopener noreferrer">
+                  小红书: VEX8009
+                </a>
               </li>
             </ul>
           </div>
@@ -44,12 +46,16 @@ export default function Footer() {
         </div>
 
         <div className="pt-8 border-t border-zinc-200 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-zinc-400 text-xs sm:text-sm">
+          <p className="text-zinc-400 text-xs sm:text-sm text-center sm:text-left">
             &copy; {new Date().getFullYear()} 卓越科技 BricksWorkshop. All rights reserved.
           </p>
-          <p className="text-zinc-400 text-xs sm:text-sm">
-            西北首家 VEX 学苑
-          </p>
+          <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-4 text-zinc-400 text-xs sm:text-sm">
+            <span>西北首家 VEX 学苑</span>
+            <span className="hidden sm:inline">|</span>
+            <a href="https://xhslink.com/m/hcQZhBulGO" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-900 transition-colors">
+              Made by DongZi.8009
+            </a>
+          </div>
         </div>
       </div>
     </footer>
