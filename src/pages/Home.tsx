@@ -7,6 +7,7 @@ import Curriculum from '@/components/Curriculum';
 import Pathway from '@/components/Pathway';
 import Campus from '@/components/Campus';
 import Gallery from '@/components/Gallery';
+import Salon from '@/components/Salon';
 import FAQ from '@/components/FAQ';
 import Footer from '@/components/Footer';
 
@@ -29,6 +30,7 @@ export default function Home() {
         <Pathway />
         <Campus />
         <Gallery />
+        <Salon />
         <FAQ />
       </main>
       <Footer />
