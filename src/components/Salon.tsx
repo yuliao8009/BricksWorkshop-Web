@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 
 export default function Salon() {
   return (
-    <section id="salon" className="py-24 sm:py-32 bg-white">
+    <section id="salon" className="pt-24 pb-8 sm:pt-32 sm:pb-12 bg-white">
       <div className="max-w-5xl mx-auto px-6 sm:px-8 text-center">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
