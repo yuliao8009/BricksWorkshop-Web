@@ -3,7 +3,6 @@
 
 &gt; [中文版](README.md)
 
-&lt;div align="center"&gt;
 
 [![React Version](https://img.shields.io/badge/React-18.3.1-61dafb?style=flat-square&amp;logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178c6?style=flat-square&amp;logo=typescript)](https://www.typescriptlang.org)
@@ -12,7 +11,6 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.38.0-ff6b6b?style=flat-square)](https://www.framer.com/motion)
 [![Cloudflare Workers](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&amp;logo=cloudflare)](https://developers.cloudflare.com/workers)
 
-&lt;/div&gt;
 
 ---
 
@@ -165,11 +163,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-&lt;div align="center"&gt;
 
 **Made with ❤️ by a middle school student &amp; VEX competitor**
-
-&amp;copy; 2024 BricksWorkshop. All rights reserved.
-
-&lt;/div&gt;
 
