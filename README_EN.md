@@ -1,18 +1,18 @@
 
 # BricksWorkshop | Official Showcase Website
 
-&gt; [中文版](README.md)
+> [中文版](README.md)
 
-&lt;div align="center"&gt;
+<div align="center">
 
-[![React Version](https://img.shields.io/badge/React-18.3.1-61dafb?style=flat-square&amp;logo=react)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178c6?style=flat-square&amp;logo=typescript)](https://www.typescriptlang.org)
-[![Vite](https://img.shields.io/badge/Vite-6.3.5-646cff?style=flat-square&amp;logo=vite)](https://vitejs.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-06b6d4?style=flat-square&amp;logo=tailwindcss)](https://tailwindcss.com)
+[![React Version](https://img.shields.io/badge/React-18.3.1-61dafb?style=flat-square&logo=react)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
+[![Vite](https://img.shields.io/badge/Vite-6.3.5-646cff?style=flat-square&logo=vite)](https://vitejs.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-06b6d4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.38.0-ff6b6b?style=flat-square)](https://www.framer.com/motion)
-[![Cloudflare Workers](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&amp;logo=cloudflare)](https://developers.cloudflare.com/workers)
+[![Cloudflare Workers](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&logo=cloudflare)](https://developers.cloudflare.com/workers)
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -46,12 +46,12 @@ BricksWorkshop is the first professional VEX Academy in Northwest China, located
 | TypeScript | 5.8.3 | Type-safe JavaScript superset |
 | Vite | 6.3.5 | Next-generation frontend build tool |
 
-### Styling &amp; Interactions
+### Styling & Interactions
 - **Tailwind CSS 3.4.17** - Atomic CSS framework for responsive design
 - **Framer Motion 12.38.0** - Smooth animations and parallax scrolling
 - **clsx + tailwind-merge** - Efficient class name management and merging
 
-### Deployment &amp; Tooling
+### Deployment & Tooling
 - **Cloudflare Workers** - Edge deployment for global fast access
 - **ESLint** - Code quality checking
 - **@typescript-eslint** - TypeScript-specific lint rules
@@ -84,8 +84,8 @@ bricksworkshop/
 ## 🛠️ Quick Start
 
 ### Prerequisites
-- Node.js &gt;= 18
-- pnpm &gt;= 8 (recommended) or npm &gt;= 9
+- Node.js >= 18
+- pnpm >= 8 (recommended) or npm >= 9
 
 ### Install Dependencies
 
@@ -144,7 +144,7 @@ Comprehensive presentation of the full-age VEX robotics curriculum matrix, from 
 ### 5. Pathway Section
 Customized technology learning and domestic/international competition progression roadmap for students.
 
-### 6. Campus &amp; Gallery
+### 6. Campus & Gallery
 Full showcase of the first-class teaching environment at Hanzhong Riverside Road campus, classroom highlights, and student achievements.
 
 ### 7. FAQ Section
@@ -165,11 +165,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
-**Made with ❤️ by a middle school student &amp; VEX competitor**
+**Made with ❤️ by a middle school student & VEX competitor**
 
-&amp;copy; 2024 BricksWorkshop. All rights reserved.
+© 2024 BricksWorkshop. All rights reserved.
 
-&lt;/div&gt;
+</div>
 
