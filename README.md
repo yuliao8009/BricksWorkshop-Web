@@ -12,10 +12,6 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.38.0-ff6b6b?style=flat-square)](https://www.framer.com/motion)
 [![Cloudflare Workers](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&amp;logo=cloudflare)](https://developers.cloudflare.com/workers)
 
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/DongZi8009/bricksworkshop?style=flat-square)](https://github.com/DongZi8009/bricksworkshop)
-[![GitHub License](https://img.shields.io/github/license/DongZi8009/bricksworkshop?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 &lt;/div&gt;
 
 ---
@@ -164,7 +160,7 @@ pnpm deploy
 
 ## 📬 联系方式
 
-- **GitHub**：[@DongZi.8009](https://github.com/DongZi8009)
+- **GitHub**：[@flashzdw](https://github.com/flashzdw)
 - **邮箱**：dongzi8009@gmail.com
 
 ---
