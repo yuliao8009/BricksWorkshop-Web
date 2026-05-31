@@ -1,18 +1,18 @@
 
 # BricksWorkshop | 卓越科技官方展示网站
 
-&gt; [English Version](README_EN.md)
+> [English Version](README_EN.md)
 
-&lt;div align="center"&gt;
+<div align="center">
 
-[![React Version](https://img.shields.io/badge/React-18.3.1-61dafb?style=flat-square&amp;logo=react)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178c6?style=flat-square&amp;logo=typescript)](https://www.typescriptlang.org)
-[![Vite](https://img.shields.io/badge/Vite-6.3.5-646cff?style=flat-square&amp;logo=vite)](https://vitejs.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-06b6d4?style=flat-square&amp;logo=tailwindcss)](https://tailwindcss.com)
+[![React Version](https://img.shields.io/badge/React-18.3.1-61dafb?style=flat-square&logo=react)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
+[![Vite](https://img.shields.io/badge/Vite-6.3.5-646cff?style=flat-square&logo=vite)](https://vitejs.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-06b6d4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.38.0-ff6b6b?style=flat-square)](https://www.framer.com/motion)
-[![Cloudflare Workers](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&amp;logo=cloudflare)](https://developers.cloudflare.com/workers)
+[![Cloudflare Workers](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&logo=cloudflare)](https://developers.cloudflare.com/workers)
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -84,8 +84,8 @@ bricksworkshop/
 ## 🛠️ 快速开始
 
 ### 前置要求
-- Node.js &gt;= 18
-- pnpm &gt;= 8 (推荐) 或 npm &gt;= 9
+- Node.js >= 18
+- pnpm >= 8 (推荐) 或 npm >= 9
 
 ### 安装依赖
 
@@ -144,7 +144,7 @@ pnpm deploy
 ### 5. 成长进阶 (Pathway)
 为学员量身定制的科技学习与国内外赛事晋级路线图，规划清晰的成长路径。
 
-### 6. 校区风貌 (Campus &amp; Gallery)
+### 6. 校区风貌 (Campus & Gallery)
 全方位展示汉中滨江路校区的一流教学环境、课堂精彩瞬间与学员高光时刻。
 
 ### 7. 答疑解惑 (FAQ)
@@ -165,11 +165,10 @@ pnpm deploy
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
-**Made with ❤️ by a middle school student &amp; VEX competitor**
+**Made with ❤️ by a middle school student & VEX competitor**
 
-&amp;copy; 2024 BricksWorkshop. All rights reserved.
+© 2024 BricksWorkshop. All rights reserved.
 
-&lt;/div&gt;
-
+</div>
