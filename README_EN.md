@@ -12,8 +12,8 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.38.0-ff6b6b?style=flat-square)](https://www.framer.com/motion)
 [![Cloudflare Workers](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&amp;logo=cloudflare)](https://developers.cloudflare.com/workers)
 
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/yourusername/bricksworkshop?style=flat-square)](https://github.com/yourusername/bricksworkshop)
-[![GitHub License](https://img.shields.io/github/license/yourusername/bricksworkshop?style=flat-square)](LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/DongZi8009/bricksworkshop?style=flat-square)](https://github.com/DongZi8009/bricksworkshop)
+[![GitHub License](https://img.shields.io/github/license/DongZi8009/bricksworkshop?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 &lt;/div&gt;
@@ -156,50 +156,6 @@ Thoughtful answers to common questions from parents about robotics learning plan
 
 ---
 
-## 🏆 VEX Competition Experience
-
-### My Competition Journey
-1. **Getting Started** - First exposure to VEX robotics, learning basic programming and mechanical structures
-2. **First Competition** - Participating in regional competitions, gaining valuable teamwork experience
-3. **Skill Development** - Deep diving into PID control, autonomous strategies, and mechanical design optimization
-4. **National Competition** - Competing with top teams nationwide, broadening horizons
-
-### Competition Skill Stack
-- **Programming**: C/C++ (PROS), Python, autonomous program design
-- **Mechanics**: Linkages, gear trains, structural optimization
-- **Teamwork**: Division of labor, problem diagnosis, quick fixes
-
----
-
-## 📖 Young Programmer Learning Resources
-
-If you're also a young person interested in programming and robotics, here are my learning recommendations:
-
-### Recommended Learning Path
-1. **Scratch** - Introduction to programming thinking (ages 8-12)
-2. **Python** - Learning programming logic and data structures
-3. **C/C++** - Deep dive into low-level programming (foundation for VEX)
-4. **Web Development** - Learning modern frameworks like React/Vue
-
-### VEX Related Resources
-- [VEX Robotics Official Website](https://www.vexrobotics.com)
-- [PROS Kernel](https://pros.cs.purdue.edu) - Open source firmware for V5
-- [VEX Forum](https://www.vexforum.com) - World's largest VEX community
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -208,8 +164,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: [@DongZi.8009](https://github.com/DongZi8009)
+- **Email**: dongzi8009@gmail.com
 
 ---
 
@@ -217,7 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by a middle school student &amp; VEX competitor**
 
-&copy; 2024 BricksWorkshop. All rights reserved.
+&amp;copy; 2024 BricksWorkshop. All rights reserved.
 
 &lt;/div&gt;
 

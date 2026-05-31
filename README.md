@@ -3,7 +3,7 @@
 
 &gt; [English Version](README_EN.md)
 
-<div align="center">
+&lt;div align="center"&gt;
 
 [![React Version](https://img.shields.io/badge/React-18.3.1-61dafb?style=flat-square&amp;logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178c6?style=flat-square&amp;logo=typescript)](https://www.typescriptlang.org)
@@ -12,11 +12,11 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.38.0-ff6b6b?style=flat-square)](https://www.framer.com/motion)
 [![Cloudflare Workers](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&amp;logo=cloudflare)](https://developers.cloudflare.com/workers)
 
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/yourusername/bricksworkshop?style=flat-square)](https://github.com/yourusername/bricksworkshop)
-[![GitHub License](https://img.shields.io/github/license/yourusername/bricksworkshop?style=flat-square)](LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/DongZi8009/bricksworkshop?style=flat-square)](https://github.com/DongZi8009/bricksworkshop)
+[![GitHub License](https://img.shields.io/github/license/DongZi8009/bricksworkshop?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-</div>
+&lt;/div&gt;
 
 ---
 
@@ -156,50 +156,6 @@ pnpm deploy
 
 ---
 
-## 🏆 VEX 竞赛经验分享
-
-### 我的竞赛历程
-1. **入门阶段** - 第一次接触 VEX 机器人，学习基础编程与机械结构
-2. **第一次参赛** - 参加区域赛，收获宝贵的团队协作经验
-3. **技术精进** - 深入学习 PID 控制、自动程序策略、机械设计优化
-4. **全国赛之旅** - 与全国各地顶尖选手切磋交流，开阔视野
-
-### 竞赛技能栈
-- **编程**：C/C++ (PROS)、Python、自动程序设计
-- **机械**：连杆机构、齿轮传动、结构优化
-- **团队**：分工协作、问题定位、快速修复
-
----
-
-## 📖 青少年编程学习资源
-
-如果你也是一名对编程和机器人感兴趣的青少年，以下是我的学习建议：
-
-### 推荐学习路径
-1. **Scratch** - 入门编程思维（适合 8-12 岁）
-2. **Python** - 学习编程逻辑与数据结构
-3. **C/C++** - 深入了解底层编程（为 VEX 打基础）
-4. **Web 开发** - 学习 React/Vue 等现代框架
-
-### VEX 相关资源
-- [VEX Robotics 官网](https://www.vexrobotics.com)
-- [PROS Kernel](https://pros.cs.purdue.edu) - V5 开源固件
-- [VEX Forum](https://www.vexforum.com) - 全球最大的 VEX 社区
-
----
-
-## 🤝 贡献指南
-
-欢迎任何形式的贡献！
-
-1. Fork 本项目
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个 Pull Request
-
----
-
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
@@ -208,8 +164,8 @@ pnpm deploy
 
 ## 📬 联系方式
 
-- **GitHub**：[@yourusername](https://github.com/yourusername)
-- **邮箱**：your.email@example.com
+- **GitHub**：[@DongZi.8009](https://github.com/DongZi8009)
+- **邮箱**：dongzi8009@gmail.com
 
 ---
 
@@ -217,7 +173,7 @@ pnpm deploy
 
 **Made with ❤️ by a middle school student &amp; VEX competitor**
 
-&copy; 2024 BricksWorkshop. All rights reserved.
+&amp;copy; 2024 BricksWorkshop. All rights reserved.
 
 &lt;/div&gt;
 
