@@ -6,7 +6,8 @@ import { cloudflare } from "@cloudflare/vite-plugin";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/',
+  // GitHub Pages 项目页路径：https://<user>.github.io/BricksWorkshop-Web/
+  base: '/BricksWorkshop-Web/',
   build: {
     sourcemap: 'hidden',
   },
