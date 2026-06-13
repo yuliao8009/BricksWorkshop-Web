@@ -1,5 +1,9 @@
 name: Deploy to GitHub Pages
 
+# 项目页部署：BricksWorkshop-Web
+# 部署地址：https://<user>.github.io/BricksWorkshop-Web/
+# 前置条件：Settings → Pages → Source 选择 "GitHub Actions"
+
 on:
   # 每当 push 到 main 或 master 分支时触发部署
   push:
